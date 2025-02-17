@@ -1,0 +1,8 @@
+{
+    "commands": [
+        {"command" : "accelerate", "value" : 100},
+        {"command" : "brake", "value" : 50},
+        {"command" : "steer", "direction" : "left"},
+        {"command" : "steer", "direction" : "right"}
+    ]
+}
